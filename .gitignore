@@ -1,0 +1,5 @@
+*_config/
+*_data/
+etc-pihole/
+etc-dnsmasq.d/
+lidarr/
